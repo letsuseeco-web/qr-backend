@@ -9,10 +9,7 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1",
-    "msnodesqlv8": "^5.1.5",
-    "mssql": "^12.2.0",
     "mysql2": "^3.20.0",
-    "qrcode": "^1.5.4",
-    "tedious": "^19.2.1"
+    "qrcode": "^1.5.4"
   }
 }
