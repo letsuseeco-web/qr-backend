@@ -1,10 +1,11 @@
 import mysql from "mysql2/promise";
 
 const pool = mysql.createPool({
-  host: "localhost",
+  host: "gondola.proxy.rlwy.net",
   user: "root",
-  password: "",
-  database: "qr_system"
+  password: "juKXHTjqeuRufiukuHCWcfyPbGafogIq",
+  database: "railway",
+  port: 14066
 });
 
 export default pool;
